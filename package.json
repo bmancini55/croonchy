@@ -1,0 +1,19 @@
+{
+  "name": "croonchy",
+  "version": "0.1.0",
+  "author": "Brian Mancini <bmancini@gmail.com>",
+  "description": "Event-based web sockets",
+  "keywords": [
+    "websocket",
+    "events"
+  ],
+  "dependencies": {
+    "ws": "~0.4.31",
+    "debug": "~0.7.4"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "chai": "~1.8.1",
+    "sinon": "~1.7.3"
+  }
+}
